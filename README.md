@@ -1,4 +1,4 @@
-# chat_app
+ # chat_app
 
 A new Flutter project.
 💬 Flutter Chat App
@@ -29,9 +29,10 @@ A new Flutter project.
 3. automatically adds config files into your project:
 Android → android/app/google-services.json
 lib -> lib/firebase_options.dart
+for windows(https://youtu.be/gptBM2CPMQs?si=FEpZ4PE0XqBFltjR)
 4.In Firebase Console, enable:
 ->Authentication (Google or Email/Password)
-->For google signin want to sha1 and sha256 keys then again redownload google-services.json
+->For google signin want to add sha1 and sha256 keys then again redownload google-services.json
 ->Firestore Database
 ->Realtime Database
 📸 Demo Showcase
