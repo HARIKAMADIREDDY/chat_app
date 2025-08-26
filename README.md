@@ -26,11 +26,12 @@ A new Flutter project.
  dart pub global activate flutterfire_cli
 2.Run configuration
  flutterfire configure
-3.Add config files into your project:
+3. automatically adds config files into your project:
 Android → android/app/google-services.json
-iOS → ios/Runner/GoogleService-Info.plist
+lib -> lib/firebase_options.dart
 4.In Firebase Console, enable:
 ->Authentication (Google or Email/Password)
+->For google signin want to sha1 and sha256 keys then again redownload google-services.json
 ->Firestore Database
 ->Realtime Database
 📸 Demo Showcase
