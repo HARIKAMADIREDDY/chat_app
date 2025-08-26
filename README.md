@@ -30,6 +30,7 @@ A new Flutter project.
 Android → android/app/google-services.json
 lib -> lib/firebase_options.dart
 for windows(https://youtu.be/gptBM2CPMQs?si=FEpZ4PE0XqBFltjR)
+for macbook(https://youtu.be/a1YxfEGhFmQ?si=7gV5TvIjpLCw7871)
 4.In Firebase Console, enable:
 ->Authentication (Google or Email/Password)
 ->For google signin want to add sha1 and sha256 keys then again redownload google-services.json
